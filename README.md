@@ -22,7 +22,11 @@ Compatible con Windows, Linux y macOS.
 
 Colaboradores
 Johan Steven Briceño Layton
+
 Oscar Julián Gomes Chávez
+
 Julián David Murcia Muñoz
+
 Juan Pablo Ramírez López
+
 Heidy Viviana Sierra Arévalo
