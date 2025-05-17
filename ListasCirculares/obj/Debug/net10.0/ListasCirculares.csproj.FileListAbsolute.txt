@@ -1,0 +1,15 @@
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\bin\Debug\net10.0\ListasCirculares.exe
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\bin\Debug\net10.0\ListasCirculares.deps.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\bin\Debug\net10.0\ListasCirculares.runtimeconfig.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\bin\Debug\net10.0\ListasCirculares.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\bin\Debug\net10.0\ListasCirculares.pdb
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.AssemblyInfoInputs.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.AssemblyInfo.cs
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.csproj.CoreCompileInputs.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.sourcelink.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\refint\ListasCirculares.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.pdb
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ListasCirculares.genruntimeconfig.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasCirculares\obj\Debug\net10.0\ref\ListasCirculares.dll
