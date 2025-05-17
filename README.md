@@ -1,6 +1,7 @@
 --------------Ejercicios de Listas Enlazadas en C#--------------
 
 Este repositorio incluye varias implementaciones en C# para trabajar con diferentes tipos de listas enlazadas.
+
 Archivos y proyectos incluidos:
 1. Lista_simple_enlazada. 
 2. ListasDobles.
@@ -16,11 +17,12 @@ Cómo usar este repositorio
 
 ------------Requisitos necesarios------------
 
-Visual Studio 2019 o posterior o Visual Studio Code con .NET SDK instalado.
-.NET SDK (asegúrate de tenerlo instalado y configurado en tu sistema).
-Compatible con Windows, Linux y macOS.
+ - Visual Studio 2019 o posterior o Visual Studio Code con .NET SDK instalado.
 
-Colaboradores
+ - .NET SDK (asegúrate de tenerlo instalado y configurado en tu sistema).
+
+-------------Colaboradores------------
+
 Johan Steven Briceño Layton
 
 Oscar Julián Gomes Chávez
