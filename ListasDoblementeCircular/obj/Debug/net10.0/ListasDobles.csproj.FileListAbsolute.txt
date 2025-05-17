@@ -1,0 +1,15 @@
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\bin\Debug\net10.0\ListasDobles.exe
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\bin\Debug\net10.0\ListasDobles.deps.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\bin\Debug\net10.0\ListasDobles.runtimeconfig.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\bin\Debug\net10.0\ListasDobles.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\bin\Debug\net10.0\ListasDobles.pdb
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.AssemblyInfoInputs.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.AssemblyInfo.cs
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.csproj.CoreCompileInputs.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.sourcelink.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\refint\ListasDobles.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.pdb
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ListasDobles.genruntimeconfig.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDobles\obj\Debug\net10.0\ref\ListasDobles.dll

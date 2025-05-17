@@ -1,0 +1,15 @@
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\bin\Debug\net10.0\ListasDoblementeCircular.exe
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\bin\Debug\net10.0\ListasDoblementeCircular.deps.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\bin\Debug\net10.0\ListasDoblementeCircular.runtimeconfig.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\bin\Debug\net10.0\ListasDoblementeCircular.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\bin\Debug\net10.0\ListasDoblementeCircular.pdb
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.AssemblyInfoInputs.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.AssemblyInfo.cs
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.csproj.CoreCompileInputs.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.sourcelink.json
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\refint\ListasDoblementeCircular.dll
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.pdb
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ListasDoblementeCircular.genruntimeconfig.cache
+C:\Users\CGCA-68845\Documents\OBS STUDIO\Grupo5\Listas_en_C-\ListasDoblementeCircular\obj\Debug\net10.0\ref\ListasDoblementeCircular.dll
